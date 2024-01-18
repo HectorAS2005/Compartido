@@ -1,1 +1,3 @@
 # Compartido
+La aplicación que desarrollamos se trata de una app para reservas. Puedes reservar todo tipo de cosas, restaurantes, salas de cine, Parkings...
+Habrá soporte para Android, iOS y web.
